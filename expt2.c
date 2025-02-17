@@ -1,3 +1,8 @@
+/*Name:Md. Zaid mashooque ansari
+class:c3
+Title:implementation of insertion and deletion in a specific position in array using function.
+uin:241p057*/
+
 #include <stdio.h>
 #define SIZE 10
 
