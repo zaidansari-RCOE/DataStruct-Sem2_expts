@@ -1,3 +1,11 @@
+/*
+Title : Array Implementation of stack
+Name : Md zaid mashooque ansari
+Class :First Year
+DIV :C
+Roll no. :051
+UIN :241P057
+*/
 #include<stdio.h>
 
 #define SIZE 15
